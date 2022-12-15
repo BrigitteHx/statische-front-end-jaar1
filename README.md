@@ -1,1 +1,0 @@
-# statische-front-end-jaar1
